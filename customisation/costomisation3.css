@@ -1,0 +1,87 @@
+
+.rectangle{
+
+    width: 600px;
+    height: 800px;
+    display: grid;
+    margin: auto;
+    background-color:#fafafa ;
+}
+.writing{
+    display: grid;
+    margin:auto ;
+    margin-top: 30px;
+    color: #1db895;
+
+}
+.writing2{
+    display: grid;
+    margin:auto ;
+    margin-bottom:700px ;
+    color:#ced4d3 ;
+}
+.rectangle2{
+    display: grid;
+    margin:auto ;
+    width: 400px;
+    height: 60px;
+    margin-top: -700px;
+
+}  
+.rectangle3{
+    display: grid;
+    margin:auto ;
+    width: 400px;
+    height: 60px;
+    margin-top: -630px;
+}
+.rectangle4{
+    display: grid;
+    margin:auto ;
+    width: 400px;
+    height: 60px;
+    margin-top: -560px;
+}
+.rectangle5{
+    display: grid;
+    margin:auto ;
+    width: 400px;
+    height: 60px;
+    margin-top: -490px;
+}
+.rectangle6{
+    display: grid;
+    margin:auto ;
+    width: 400px;
+    height: 60px;
+    margin-top: -420px;
+}  
+.rectangle7{
+    display: grid;
+    margin:auto ;
+    width: 400px;
+    height: 200px;
+    margin-top: -350px;
+   
+   
+}  
+.boutton{
+    display: grid;
+    margin:auto ;
+    width: 200px;
+    height: 50px;
+    margin-top: -100px;
+    background-color:#1db895 ;
+    color:white ;
+    border-radius: 5px;
+}
+div>input{
+    background-color:#f1f1f1 ;
+    box-shadow: 1px 1px 1px 1px ;
+    color: rgb(65, 64, 64);
+    border-radius: 5px;
+    border: transparent;
+}
+div>select{
+    box-shadow: 1px 1px 1px 1px ;
+}
